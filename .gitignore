@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+RELATORIO_TESTES.txt
+.venv/
+venv/
